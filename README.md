@@ -3,6 +3,9 @@
 
 Welcome to the **DSA With Java** project! This repository contains a collection of Java programs that demonstrate various data structures and algorithms. Below is a list of the programs included, each addressing a different problem or concept.
 
+![Tree Image](img/java.png)
+
+
 ## Table of Contents
 
 1. [Count Number of Even and Odd Elements in an Array](#)
