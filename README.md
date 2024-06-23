@@ -12,6 +12,7 @@ Welcome to the **DSA With Java** project! This repository contains a collection 
 6. [Count Vowels in a String](#count-vowels)
 7. [Check if a Number is a Perfect Square](#perfect-square)
 8. [Find the Maximum Element in a Matrix](#max-element-in-matrix)
+9. [Sum of the given digit](#sum-digit)
 
 ## <a name="count-even-and-odd-elements"></a>1. Count Number of Even and Odd Elements in an Array
 
@@ -45,6 +46,9 @@ This program determines if a given number is a perfect square.
 
 This program finds the maximum element in a given matrix.
 
+## <a name="sum-digit"></a>8. Total sum of digit 
+
+finds the sum of the  given digits.
 ---
 
 Feel free to explore each of these programs to enhance your understanding of data structures and algorithms in Java. Happy coding!
