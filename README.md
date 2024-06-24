@@ -18,6 +18,7 @@ Welcome to the **DSA With Java** project! This repository contains a collection 
 8. [Find the Maximum Element in a Matrix](#)
 9. [Sum of the given digit](#)
 10. [Sum of n squared number to the given range](#)
+11. [Check if a Number is Armstrong_Numbers](#)
 
 
 
