@@ -21,6 +21,7 @@ Welcome to the **DSA With Java** project! This repository contains a collection 
 11. [Check if a Number is Armstrong_Numbers](#)
 12. [Finding Factorial of given number](#)
 13. [Check if an Array is  sorted in acs or not](#)
+14. [Mutiple table of a number](#)
 
 
 
